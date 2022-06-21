@@ -1,4 +1,4 @@
-#About Me
+## About Me
 - 👋 Hi, I’m Yogi Evan Dwi Kristantyo
 - 👀 Now I study in <b>Universitas Kristen Duta Wacana and majoring in Sistem Information </b>
 - 🌱 I’m currently learning <b>PHP</b> and <b>Laravel</b>
