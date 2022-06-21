@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @yogievan
-- 👀 Now I study in Universitas Kristen Duta Wacana and Sistem Information Major
+#About Me
+- 👋 Hi, I’m Yogi Evan Dwi Kristantyo
+- 👀 Now I study in <b>Universitas Kristen Duta Wacana and majoring in Sistem Information </b>
 - 🌱 I’m currently learning <b>PHP</b> and <b>Laravel</b>
 - 📫 How to reach me in <b> INSTAGRAM: @yogievan_ </b>
