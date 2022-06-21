@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @yogievan
 - 👀 Now I study in Universitas Kristen Duta Wacana and Sistem Information Major
-- 🌱 I’m currently learning <b>PHP</b> and Laravel
-- 📫 How to reach me in ISTAGRAM: @yogievan_
+- 🌱 I’m currently learning <b>PHP</b> and <b>Laravel</b>
+- 📫 How to reach me in <b> ISTAGRAM: @yogievan_ </b>
